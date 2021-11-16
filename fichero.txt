@@ -1,0 +1,24 @@
+Abriendo una ventana de Chrome
+Establece y se dirige a esa url
+Busca el item de Contactenos y hace click
+Busca el item de Nombre
+Completa el campo con 'Alan Vicente'
+Busca el item de Email
+Completa el campo con 'alanvicente'
+Busca el item de Asunto
+Completa el campo con 'Ejemplo'
+Busca el item de Su mensaje
+Completa el campo con 'Ejemplo'
+Busca el item de Captcha
+Busca la imagen captcha por xpath
+Realiza una screenshot del captcha
+Asigno a path la ruta de la imagen
+Crea el objeto Tesseract y luego lo devuelve como String
+El captcha encontrado es: WMH g
+
+Reemplaza todo lo que no entre en ese bloque por espacios vacios
+El captcha final es: WMHg
+Completa el campo con el captcha final
+Envia el formulario
+Busca si hay elemento erroneo
+El elemento erroneo es: La dirección e-mail parece inválida.
